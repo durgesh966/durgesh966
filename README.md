@@ -3,11 +3,10 @@ Hi there! I'm Durgesh Bisen 👋
 ![GitHub followers](https://img.shields.io/github/followers/durgesh966?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/durgesh966?style=social)
 
-I am Durgesh Bisen, a recent graduate in computer science engineering, seeking a challenging role as a Junior Node.js Backend Developer in a reputable organization. I aim to utilize my technical and analytical skills for the organization’s growth and enhance my knowledge about new trends in the IT sector. Welcome to my GitHub profile!
-
 🚀 About Me
 
-  - 🎓 I am currently pursuing my degree in Computer Science and Engineering at RGPV University, Bhopal.
+I am Durgesh Bisen, a recent graduate in computer science engineering at RGPV University, Bhopal, seeking a challenging role as a Junior Node.js Backend Developer in a reputable organization. I aim to utilize my technical and analytical skills for the organization’s growth and enhance my knowledge about new trends in the IT sector. Welcome to my GitHub profile!
+
   - 🌱 I’m currently learning advanced Node.js and exploring new trends in the IT sector.
   - 👯 I’m looking to collaborate on open-source projects and innovative tech solutions.
   - 🤔 I’m looking for help with Back-End Development.
