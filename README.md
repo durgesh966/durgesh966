@@ -7,13 +7,13 @@ I am Durgesh Bisen, a recent graduate in computer science engineering, seeking a
 
 🚀 About Me
 
-  🎓 I am currently pursuing my degree in Computer Science and Engineering at RGPV University, Bhopal.
-  🌱 I’m currently learning advanced Node.js and exploring new trends in the IT sector.
-  👯 I’m looking to collaborate on open-source projects and innovative tech solutions.
-  🤔 I’m looking for help with Back-End Development.
-  💬 Ask me about anything, I am happy to help and discuss ideas.
-  📫 How to reach me: webdev.durgesh@gmail.com
-  ⚡ Fun fact: I developed a dynamic task management application to enhance productivity and collaboration.
+  - 🎓 I am currently pursuing my degree in Computer Science and Engineering at RGPV University, Bhopal.
+  - 🌱 I’m currently learning advanced Node.js and exploring new trends in the IT sector.
+  - 👯 I’m looking to collaborate on open-source projects and innovative tech solutions.
+  - 🤔 I’m looking for help with Back-End Development.
+  - 💬 Ask me about anything, I am happy to help and discuss ideas.
+  - 📫 How to reach me: webdev.durgesh@gmail.com
+  -⚡ Fun fact: I developed a dynamic task management application to enhance productivity and collaboration.
 
 
 🛠️ Skills
