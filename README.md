@@ -77,7 +77,7 @@ I am a passionate and dedicated fresher student eager to dive into the world of 
                 src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="github" width="40"
                 height="40" /></a>&nbsp;&nbsp;&nbsp;
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
-                src="https://www.synopsys.com/glossary/what-is-cicd/_jcr_content/root/synopsyscontainer/column_1946395452_co/colRight/image_copy.coreimg.svg/1663683682045/cicd.svg"
+                src="https://icon.icepanel.io/Technology/svg/GitHub-Actions.svg"
                 alt="CI/CD" width="40" height="40" /></a>&nbsp;&nbsp;&nbsp;
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
                 src="https://www.svgrepo.com/show/306098/githubactions.svg" alt="github-action" width="40"
