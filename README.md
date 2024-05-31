@@ -3,17 +3,18 @@ Hi there! I'm Durgesh Bisen 👋
 ![GitHub followers](https://img.shields.io/github/followers/durgesh966?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/durgesh966?style=social)
 
-I am a passionate and dedicated fresher student eager to dive into the world of software development and technology. Welcome to my GitHub profile!
+I am Durgesh Bisen, a recent graduate in computer science engineering, seeking a challenging role as a Junior Node.js Backend Developer in a reputable organization. I aim to utilize my technical and analytical skills for the organization’s growth and enhance my knowledge about new trends in the IT sector. Welcome to my GitHub profile!
 
 🚀 About Me
 
-  🎓 I am currently pursuing my degree in [Your Major] at [Your University].
-  🌱 I’m currently learning [Technology or Programming Language you are learning].
+  🎓 I am currently pursuing my degree in Computer Science and Engineering at RGPV University, Bhopal.
+  🌱 I’m currently learning advanced Node.js and exploring new trends in the IT sector.
   👯 I’m looking to collaborate on open-source projects and innovative tech solutions.
-  🤔 I’m looking for help with [Topic or Project you need help with].
+  🤔 I’m looking for help with Back-End Development.
   💬 Ask me about anything, I am happy to help and discuss ideas.
-  📫 How to reach me: [your.email@example.com]
-  ⚡ Fun fact: [A fun fact about you].
+  📫 How to reach me: webdev.durgesh@gmail.com
+  ⚡ Fun fact: I developed a dynamic task management application to enhance productivity and collaboration.
+
 
 🛠️ Skills
 
@@ -133,9 +134,7 @@ I am a passionate and dedicated fresher student eager to dive into the world of 
 💼 Projects
 
 Here are a few projects I have worked on:
-- [Project 1](link-to-project): Brief description of the project.
-- [Project 2](link-to-project): Brief description of the project.
-- [Project 3](link-to-project): Brief description of the project.
+- [View GitHub Repository](https://github.com/durgesh966?tab=repositories): Brief description of the projects.
 
 🌐 Connect with Me
 
