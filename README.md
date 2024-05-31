@@ -120,14 +120,12 @@ I am a passionate and dedicated fresher student eager to dive into the world of 
         </a>&nbsp;&nbsp;&nbsp;
         <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-                alt="linux" width="40" height="40" /> </a>&nbsp;&nbsp;&nbsp;
-
-    </p>
+                alt="linux" width="40" height="40" /> </a>&nbsp;&nbsp;&nbsp;</p>
 
     
 ## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=durgesh966&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=durgesh966&layout=compact&theme=radical)
 
 ## 💼 Projects
 Here are a few projects I have worked on:
