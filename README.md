@@ -13,7 +13,7 @@ I am Durgesh Bisen, a recent graduate in computer science engineering, seeking a
   - 🤔 I’m looking for help with Back-End Development.
   - 💬 Ask me about anything, I am happy to help and discuss ideas.
   - 📫 How to reach me: webdev.durgesh@gmail.com
-  -⚡ Fun fact: I developed a dynamic task management application to enhance productivity and collaboration.
+  - ⚡ Fun fact: I developed a dynamic task management application to enhance productivity and collaboration.
 
 
 🛠️ Skills
