@@ -6,6 +6,7 @@ Hi there! I'm Durgesh Bisen 👋
 I am a passionate and dedicated fresher student eager to dive into the world of software development and technology. Welcome to my GitHub profile!
 
 🚀 About Me
+
   🎓 I am currently pursuing my degree in [Your Major] at [Your University].
   🌱 I’m currently learning [Technology or Programming Language you are learning].
   👯 I’m looking to collaborate on open-source projects and innovative tech solutions.
@@ -15,6 +16,7 @@ I am a passionate and dedicated fresher student eager to dive into the world of 
   ⚡ Fun fact: [A fun fact about you].
 
 🛠️ Skills
+
 <p align="left">
         <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c"
@@ -124,16 +126,19 @@ I am a passionate and dedicated fresher student eager to dive into the world of 
 
     
 📈 GitHub Stats
+
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=durgesh966&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=durgesh966&layout=compact&theme=radical)
 
 💼 Projects
+
 Here are a few projects I have worked on:
 - [Project 1](link-to-project): Brief description of the project.
 - [Project 2](link-to-project): Brief description of the project.
 - [Project 3](link-to-project): Brief description of the project.
 
 🌐 Connect with Me
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/durgesh-bisen-aa311221a/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Durgesh82410685)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://durgesh966.github.io/Durgesh-portfolio/)
@@ -141,6 +146,7 @@ Here are a few projects I have worked on:
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/your-facebook-username)
 
 🎮 Hobbies & Interests
+
    - Coding and experimenting with new technologies.
    - Learning New Things.
    - Reading tech blogs and watching tutorials.
