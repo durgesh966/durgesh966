@@ -14,7 +14,7 @@ I am Durgesh Bisen, a recent graduate in computer science engineering at RGPV Un
 
 
 🛠️ Skills
-
+<div>
 ### Languages:
 | C | C++ | Go | JavaScript | TypeScript | Node.js | Express.js | Nest.js |
 |----------|----------|----------|-----|-----|
@@ -100,6 +100,8 @@ I am Durgesh Bisen, a recent graduate in computer science engineering at RGPV Un
         <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
                 alt="linux" width="40" height="40" /> </a>&nbsp;&nbsp;&nbsp;</p>
+
+</div>
 
     
 📈 GitHub Stats
