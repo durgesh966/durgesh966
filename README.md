@@ -124,6 +124,9 @@ I am Durgesh Bisen, a recent graduate in computer science engineering at RGPV Un
 
     
 📈 GitHub Stats
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=durgesh966&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=durgesh966&layout=compact&theme=radical)
